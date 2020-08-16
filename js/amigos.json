@@ -1,0 +1,17 @@
+[
+    {
+        "nombre": "Maciel Galeano",
+        "edad": 23,
+        "pais": "Urugauy"
+    },
+    {
+        "nombre": "Jose Galeano",
+        "edad": 23,
+        "pais": "Argentina"
+    },
+    {
+        "nombre": "Godinez Galeano",
+        "edad": 70,
+        "pais": "Colombia"
+    }
+]
